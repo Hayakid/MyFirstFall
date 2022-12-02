@@ -1,0 +1,15 @@
+C:\Users\Дэнчик\Desktop\MyHon\Tryfirst\bin\Debug\net6.0\Tryfirst.exe
+C:\Users\Дэнчик\Desktop\MyHon\Tryfirst\bin\Debug\net6.0\Tryfirst.deps.json
+C:\Users\Дэнчик\Desktop\MyHon\Tryfirst\bin\Debug\net6.0\Tryfirst.runtimeconfig.json
+C:\Users\Дэнчик\Desktop\MyHon\Tryfirst\bin\Debug\net6.0\Tryfirst.dll
+C:\Users\Дэнчик\Desktop\MyHon\Tryfirst\bin\Debug\net6.0\Tryfirst.pdb
+C:\Users\Дэнчик\Desktop\MyHon\Tryfirst\obj\Debug\net6.0\Tryfirst.csproj.AssemblyReference.cache
+C:\Users\Дэнчик\Desktop\MyHon\Tryfirst\obj\Debug\net6.0\Tryfirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дэнчик\Desktop\MyHon\Tryfirst\obj\Debug\net6.0\Tryfirst.AssemblyInfoInputs.cache
+C:\Users\Дэнчик\Desktop\MyHon\Tryfirst\obj\Debug\net6.0\Tryfirst.AssemblyInfo.cs
+C:\Users\Дэнчик\Desktop\MyHon\Tryfirst\obj\Debug\net6.0\Tryfirst.csproj.CoreCompileInputs.cache
+C:\Users\Дэнчик\Desktop\MyHon\Tryfirst\obj\Debug\net6.0\Tryfirst.dll
+C:\Users\Дэнчик\Desktop\MyHon\Tryfirst\obj\Debug\net6.0\refint\Tryfirst.dll
+C:\Users\Дэнчик\Desktop\MyHon\Tryfirst\obj\Debug\net6.0\Tryfirst.pdb
+C:\Users\Дэнчик\Desktop\MyHon\Tryfirst\obj\Debug\net6.0\Tryfirst.genruntimeconfig.cache
+C:\Users\Дэнчик\Desktop\MyHon\Tryfirst\obj\Debug\net6.0\ref\Tryfirst.dll
